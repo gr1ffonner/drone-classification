@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
-from typing import Tuple
 from pathlib import Path
 from drone_separator import classify_drones
 

@@ -6,7 +6,7 @@ from keras.models import load_model
 
 def classify_drones(input_dir, output_dir):
     # Define the class labels
-    class_labels = ["cargo", "civil", "military"]
+    class_labels = ["civil", "cargo", "military"]
 
     # Load the pre-trained Keras model
     model = load_model("keras_model.h5")
