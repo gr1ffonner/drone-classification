@@ -31,7 +31,7 @@ To use the Cigarette Detector, follow these installation steps:
    pip install -r reqs.txt
 
 ## Usage 
-```bash
-   python gui.py
-```
-After this command all that you need is to specify two pathes for source data and the outpul folder and then click on the run button!!
+  ```bash
+     python gui.py
+  ```
+  After this command all that you need is to specify two pathes for source data and the outpul folder and then click on the run button!!
